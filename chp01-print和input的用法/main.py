@@ -21,10 +21,3 @@ print('你输入的内容为：', inputV)
 print(type(inputV))  # 检查inputV的类型。注意：用户输入的内容均为字符串类型
 age = input('请输入你的年龄:')
 print('你的出生时间为：', year - int(age))
-
-
-
-
-
-
-
